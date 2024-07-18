@@ -26,6 +26,12 @@ Smooth transitions and subtle animations are incorporated to make the customizat
   
 The Modern Chair Project is designed with the user in mind. By simply clicking on different color and texture swatches, users can see their preferred choice instantly applied to the chair. This intuitive interaction allows for easy comparison and selection, ensuring users find the perfect look for their chair. The changing background color further enhances this experience, making the customization process not only functional but also visually pleasing.
 
+Developer
+---------
+
+The Password Generator was developed by [Anant Vijay](https://github.com/AnantVijay16).
+
+
 
 
 
